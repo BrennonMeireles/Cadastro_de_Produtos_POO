@@ -16,10 +16,9 @@ Compile os arquivos .java.
 Execute o programa Java resultante.
 Siga as instruções para cadastrar, visualizar e manipular os objetos.
 
-Estrutura do Código
+## Estrutura do Código
 Main.java: Contém o código principal do programa, incluindo a lógica para interação com o usuário e manipulação dos objetos.
-Objeto.java: Classe base que define a estrutura dos objetos a serem cadastrados.
-Cadastro.java: Classe responsável pelo gerenciamento dos objetos cadastrados, incluindo métodos para adicionar, exibir, editar e excluir objetos.
+Produto.java: Classe base que define a estrutura dos objetos a serem cadastrados.
 
 ## Contribuição
 Sinta-se à vontade para contribuir com este projeto! Você pode propor melhorias no código, adicionar novas funcionalidades, corrigir problemas ou otimizar o desempenho.
