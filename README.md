@@ -6,9 +6,9 @@ Bem-vindo ao repositório do projeto de cadastro de objetos desenvolvido no SENA
 Este projeto consiste em um programa Java que permite cadastrar objetos de um determinado tipo. As classes foram utilizadas para modelar os objetos a serem cadastrados, enquanto métodos foram implementados para adicionar, exibir e manipular esses objetos.
 
 ## Funcionalidades
-Cadastro de Objetos: Permite cadastrar objetos de um determinado tipo (por exemplo, produtos, clientes, etc.).
-Exibição de Cadastros: Apresenta os objetos cadastrados em formato de lista ou tabela.
-Manipulação de Objetos: Possibilita a edição, exclusão e busca de objetos cadastrados.
+- Cadastro de Objetos: Permite cadastrar objetos de um determinado tipo (por exemplo, produtos, clientes, etc.).
+- Exibição de Cadastros: Apresenta os objetos cadastrados em formato de lista ou tabela.
+- Manipulação de Objetos: Possibilita a edição, exclusão e busca de objetos cadastrados.
 
 ## Como Utilizar
 Clone este repositório em sua máquina local.
